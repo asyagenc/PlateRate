@@ -1,14 +1,13 @@
 This repository contains screenshots of PlateRate
 
+![girişekranı](https://github.com/user-attachments/assets/309c046a-0be9-4a0e-b8c3-3f2ccc2009d8)
 
-![Screenshot_20250120_221744](https://github.com/user-attachments/assets/8fcfffa5-cc57-4f9c-9dc6-e34f31c53ab6)
+![continueWgoogle](https://github.com/user-attachments/assets/d4b0f8da-9135-40db-b4cf-0b7c70ebb826)
 
-![Screenshot_20250120_174701](https://github.com/user-attachments/assets/d0486df7-5f2d-483e-ab70-5632e49beed8)
-![Screenshot_20250120_174728](https://github.com/user-attachments/assets/72ce15d7-4757-4d94-8f87-fed9cf6f80d4)
-![Screenshot_20250120_174737](https://github.com/user-attachments/assets/8b53ca01-0aaf-418e-92ed-f8781ba665b2)
-![Screenshot_20250120_174912](https://github.com/user-attachments/assets/461d6398-76ac-4f51-9f4a-a199dc222508)
-
-![Screenshot_20250120_221641](https://github.com/user-attachments/assets/10eaaeea-0bc4-411e-9b38-320fa71b919b)
-![Screenshot_20250120_221656](https://github.com/user-attachments/assets/2a480b52-691f-414a-9842-c1671c1fb938)
-![Screenshot_20250120_221711](https://github.com/user-attachments/assets/99074df4-e929-45e3-b754-13e9482e35d0)
-![Screenshot_20250120_221812](https://github.com/user-attachments/assets/854ab35c-b3af-4d10-af04-c89535e43d61)
+![anaekran](https://github.com/user-attachments/assets/e80fa018-5263-4a7d-b455-daa6420020fd)
+![aramaekranı](https://github.com/user-attachments/assets/0411f8e8-e507-4ca2-89a6-63a71b263fbf)
+![yorumekranı](https://github.com/user-attachments/assets/7ef3793d-8526-4fc9-a683-76edde24b82e)
+![profil](https://github.com/user-attachments/assets/83ff39c4-7e34-4105-bdc9-8eeca717d264)
+![bookmarklıcommentler](https://github.com/user-attachments/assets/a9ba26f7-18f7-42d1-948c-5516cc7d6bc1)
+![bookmarklıplaka](https://github.com/user-attachments/assets/f739c598-3a28-415e-adce-30b8f8eed7fc)
+![plakaekranı](https://github.com/user-attachments/assets/43be5d37-4f6e-42ad-a685-64781b8c2cd0)

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10287691161",
+    "project_id": "platerate01",
+    "storage_bucket": "platerate01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10287691161:android:da099e082d439f85544f08",
+        "android_client_info": {
+          "package_name": "com.genc.platerate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBA4g01hDDxSX1aGJdwk1NFNAS_EQjZ14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
